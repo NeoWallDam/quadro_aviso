@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Bahnschrift.ttf",
+      "sha1": "1ca49cdabec11a9f7a5d52dfe0f01cc6b471c374"
+    },
+    {
+      "path": "assets/fonts/dealerplate california.ttf",
+      "sha1": "dda40a5adf7b710941c0685b6bbf3af2e1112c82"
+    },
+    {
+      "path": "assets/fonts/secrcode.ttf",
+      "sha1": "f553b863585eb362c8fd4a892540b4395437fe3a"
+    },
+    {
+      "path": "assets/fonts/Zector.ttf",
+      "sha1": "65dc75131211907829410bde56e7a1be7f3b0cbc"
+    }
+  ]
+}
